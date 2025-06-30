@@ -5,3 +5,7 @@ This project implements a production-grade dog/cat classifier using a strategic 
 The architecture employs Keras Tuner's Hyperband algorithm to automatically determine the optimal configuration of dense layers, activation functions, and regularization parameters. 
 
 This implementation demonstrates an effective template for adapting pre-trained vision models to specialized classification tasks.
+
+Dataset:
+SchubertSlySchubert. (2018). Cat and Dog [Dataset]. Kaggle.
+https://www.kaggle.com/datasets/tongpython/cat-and-dog
